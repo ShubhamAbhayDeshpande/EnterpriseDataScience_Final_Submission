@@ -56,6 +56,25 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
+## Python version and libraries used:
+Python = 3.7.x
+
+Libraries:
+
+Numpy
+
+Pandas
+
+Matplotlib
+
+scikitlearn
+
+seaborn
+
+dash(plotly)
+
+facebook prophet
+
 ## Note: 
 Folder named 'data' is purposefully kept empty (Because of the size restriction on github). To run all the notebooks successfully clone the following repository into the specified path after cloning this repository 
 
@@ -68,3 +87,15 @@ path: data >> raw
 ### 1. Timeline for confirmed cases
 
 ![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/timeline_confirmed.gif) 
+
+### 2. Timeline for doubling rate
+![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/timeline_doubling_rate.gif)
+
+### 3. Confirmed cases filtered
+![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/timeline_confirmed_filtered.gif)
+
+### 4. Timeline for filtered doubling rate
+![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/doubling_rate_filtered.gif)
+
+### 5. SIR modelling
+![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/SIM.gif)
