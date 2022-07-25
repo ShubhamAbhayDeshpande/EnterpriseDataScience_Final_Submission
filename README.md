@@ -55,3 +55,16 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+## Note: 
+Folder named 'data' is purposefully kept empty (Because of the size restriction on github). To run all the notebooks successfully clone the following repository into the specified path after cloning this repository 
+
+repository: https://github.com/CSSEGISandData/COVID-19.git
+
+path: data >> raw
+
+# Sneak peak into the notebook
+
+### 1. Timeline for confirmed cases
+
+![](https://github.com/ShubhamAbhayDeshpande/EnterpriseDataScience_Final_Submission/blob/main/timeline_confirmed.gif) 
